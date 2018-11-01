@@ -1,1 +1,1 @@
-# калькуляторище
+# SuperDuperCalc
